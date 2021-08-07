@@ -1,0 +1,7 @@
+name: EnhancedBreeding
+version: ${project.version}
+main: github.trentmenard.com.enhancedbreeding.EnhancedBreeding
+api-version: 1.17
+authors: [Trent Menard]
+description: Allows players to see animals' breeding cooldown and time until adulthood.
+website: hy.page/trent
